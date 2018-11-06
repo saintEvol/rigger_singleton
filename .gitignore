@@ -1,0 +1,3 @@
+/venv
+/.idea
+/rigger_singleton/__pycache__/*.pyc
